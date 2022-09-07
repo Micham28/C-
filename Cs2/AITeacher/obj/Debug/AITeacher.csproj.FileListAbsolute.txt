@@ -1,0 +1,7 @@
+C:\Users\gotJe\Documents\Cs2\AITeacher\bin\Debug\AITeacher.exe.config
+C:\Users\gotJe\Documents\Cs2\AITeacher\bin\Debug\AITeacher.exe
+C:\Users\gotJe\Documents\Cs2\AITeacher\bin\Debug\AITeacher.pdb
+C:\Users\gotJe\Documents\Cs2\AITeacher\obj\Debug\AITeacher.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\Cs2\AITeacher\obj\Debug\AITeacher.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\Cs2\AITeacher\obj\Debug\AITeacher.exe
+C:\Users\gotJe\Documents\Cs2\AITeacher\obj\Debug\AITeacher.pdb

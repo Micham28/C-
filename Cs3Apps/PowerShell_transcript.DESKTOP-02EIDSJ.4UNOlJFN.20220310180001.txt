@@ -1,0 +1,44 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220310180001
+Username: DESKTOP-02EIDSJ\gotJe
+RunAs User: DESKTOP-02EIDSJ\gotJe
+Configuration Name: 
+Machine: DESKTOP-02EIDSJ (Microsoft Windows NT 10.0.19044.0)
+Host Application: C:\WINDOWS\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\Users\gotJe\Documents\Cs3Apps' }
+Process ID: 18356
+PSVersion: 5.1.19041.1320
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1320
+BuildVersion: 10.0.19041.1320
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\gotJe\OneDrive\Documents\PowerShell_transcript.DESKTOP-02EIDSJ.4UNOlJFN.20220310180001.txt
+PS C:\Users\gotJe\Documents\Cs3Apps> .\bin\Debug\Cs3Apps.exe
+_____|_____|_____
+     |     |
+  X  |  O  |  O
+_____|_____|_____
+     |     |
+  7  |  8  |  X
+     |     |
+
+
+Unhandled Exception: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolea
+n parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Cs3Apps.Choice_sys.Tic_Tac_Toe() in C:\Users\gotJe\Documents\Cs3Apps\Choice_sys.cs:line 89
+   at Cs3Apps.Choice_sys.Run() in C:\Users\gotJe\Documents\Cs3Apps\Choice_sys.cs:line 42
+   at Cs3Apps.Program.Main(String[] args) in C:\Users\gotJe\Documents\Cs3Apps\Program.cs:line 22
+PS C:\Users\gotJe\Documents\Cs3Apps> 7
+7
+PS C:\Users\gotJe\Documents\Cs3Apps> stop-transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220310180046
+**********************

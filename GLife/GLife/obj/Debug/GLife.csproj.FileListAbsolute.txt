@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\GLife\GLife\bin\Debug\GLife.exe.config
+C:\Users\gotJe\Documents\GLife\GLife\bin\Debug\GLife.exe
+C:\Users\gotJe\Documents\GLife\GLife\bin\Debug\GLife.pdb
+C:\Users\gotJe\Documents\GLife\GLife\obj\Debug\GLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\GLife\GLife\obj\Debug\GLife.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\GLife\GLife\obj\Debug\GLife.exe
+C:\Users\gotJe\Documents\GLife\GLife\obj\Debug\GLife.pdb
+C:\Users\gotJe\Documents\GLife\GLife\obj\Debug\GLife.csproj.AssemblyReference.cache

@@ -1,0 +1,397 @@
+PS C:\Users\gotJe\Documents\StudentDB> .\bin\Debug\StudentDB.exe
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+E**** SAVING ALL RECORDS TO OUTPUT FILE ****
+StudentDB.Undergrad
+Alice
+Anderson
+3.9
+aanderson@uw.edu
+3/4/2022 12:40:57 AM
+Freshman
+Computer Science
+StudentDB.GradStudent
+Bob
+Bradshaw
+3.7
+bbradshaw@uw.edu
+3/4/2022 12:40:57 AM
+5900.01
+Dr.Florance Dough
+StudentDB.Undergrad
+Carlos
+Cast
+3.7
+ccast@uw.edu
+3/4/2022 12:40:57 AM
+Junior
+Information Technology
+StudentDB.GradStudent
+David
+Davis
+3.0
+ddavis@uw.edu
+3/4/2022 12:40:57 AM
+6000.99
+Dr. Donald Chinn
+StudentDB.GradStudent
+Fredrick
+Ungus
+1.7
+fungus@uw.edu
+3/4/2022 12:20:47 PM
+1400.02
+Dr. AA Man
+**** DONE SAVING ALL RECORDS TO OUTPUT FILE ****
+PS C:\Users\gotJe\Documents\StudentDB>
+PS C:\Users\gotJe\Documents\StudentDB> start-transcript
+Transcript started, output file is C:\Users\gotJe\OneDrive\Documents\PowerShell_transcript.DESKTOP-02EIDSJ.XxJkZy91.20220305161400.txt
+PS C:\Users\gotJe\Documents\StudentDB> .\bin\Debug\StudentDB.exe
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+C
+Enter email addres (primary key) to search:
+ttumper@uw.edu
+ttumper@uw.edu NOT FOUND.
+ENTER the fisrt name:
+Tucker
+ENTER the last name:
+Tumper
+ENTER the grade pt avg:
+1.9
+[U]ndergrad or [G]rad student?
+U
+[1]Fresham [2]Sophomore [3]Junior [4]Senior:
+ENTER the Year/Rank in school: 1
+ENTER the degree major: english
+Adding new UnderGrad Student to database:
+*********************Student Record*************************First name: Tucker
+ Last name: Tumper
+       GPA: 1.9
+     Email: ttumper@uw.edu
+  Enrolled: 3/5/2022 4:14:34 PM
+      Year: Freshman
+     Major: english
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+P**** PRINTING ALL RECORDS ****
+*********************Student Record*************************First name: Alice
+ Last name: Anderson
+       GPA: 3.9
+     Email: aanderson@uw.edu
+  Enrolled: 3/4/2022 12:40:57 AM
+      Year: Freshman
+     Major: Computer Science
+*********************Student Record*************************First name: Bob
+ Last name: Bradshaw
+       GPA: 3.7
+     Email: bbradshaw@uw.edu
+  Enrolled: 3/4/2022 12:40:57 AM
+    Credit: $5,900.01
+   Advisor: Dr.Florance Dough
+
+*********************Student Record*************************First name: Carlos
+ Last name: Cast
+       GPA: 3.7
+     Email: ccast@uw.edu
+  Enrolled: 3/4/2022 12:40:57 AM
+      Year: Junior
+     Major: Information Technology
+*********************Student Record*************************First name: David
+ Last name: Davis
+       GPA: 3.0
+     Email: ddavis@uw.edu
+  Enrolled: 3/4/2022 12:40:57 AM
+    Credit: $6,000.99
+   Advisor: Dr. Donald Chinn
+
+*********************Student Record*************************First name: Fredrick
+ Last name: Ungus
+       GPA: 1.7
+     Email: fungus@uw.edu
+  Enrolled: 3/4/2022 12:20:47 PM
+    Credit: $1,400.02
+   Advisor: Dr. AA Man
+
+*********************Student Record*************************First name: Tucker
+ Last name: Tumper
+       GPA: 1.9
+     Email: ttumper@uw.edu
+  Enrolled: 3/5/2022 4:14:34 PM
+      Year: Freshman
+     Major: english
+**** DONE PRINTING ALL RECORDS ****
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+S**** SAVING ALL RECORDS TO OUTPUT FILE ****
+StudentDB.Undergrad
+Alice
+Anderson
+3.9
+aanderson@uw.edu
+3/4/2022 12:40:57 AM
+Freshman
+Computer Science
+StudentDB.GradStudent
+Bob
+Bradshaw
+3.7
+bbradshaw@uw.edu
+3/4/2022 12:40:57 AM
+5900.01
+Dr.Florance Dough
+StudentDB.Undergrad
+Carlos
+Cast
+3.7
+ccast@uw.edu
+3/4/2022 12:40:57 AM
+Junior
+Information Technology
+StudentDB.GradStudent
+David
+Davis
+3.0
+ddavis@uw.edu
+3/4/2022 12:40:57 AM
+6000.99
+Dr. Donald Chinn
+StudentDB.GradStudent
+Fredrick
+Ungus
+1.7
+fungus@uw.edu
+3/4/2022 12:20:47 PM
+1400.02
+Dr. AA Man
+StudentDB.Undergrad
+Tucker
+Tumper
+1.9
+ttumper@uw.edu
+3/5/2022 4:14:34 PM
+Freshman
+english
+**** DONE SAVING ALL RECORDS TO OUTPUT FILE ****
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+F
+Enter email addres (primary key) to search:
+ttumper@uw.edu
+FOUND email address: ttumper@uw.edu
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+D
+Enter email addres (primary key) to search:
+ttumper@uw.edu
+FOUND email address: ttumper@uw.edu
+ttumper@uw.edu***** RECORD FOUND.
+No longer in database: ttumper@uw.edu.
+
+
+**************************************************
+********** Student DB Main Menu ******************
+**************************************************
+
+Make a User selection by entering the first letter.
+
+[C]reate a student record
+[D]elete a student record
+[P]rint all records
+[S]ave records without exit
+[F]ind a student record
+[M]odify a student record
+[E]xit the database (with save)
+****** User Selection:
+M
+***********************************************************
+********** Student DB Modify Menu *************************
+***********************************************************
+
+Make a User selection by entering the letter in the box.
+
+[F]irst Name Edit
+[L]ast Name Edit
+[G]rade Point Average Edit
+E[M]ail Edit
+[R]ank/Year Edit
+[D]egree Edit
+[C]redit Edit
+[S]taff Edit
+[E]xit the database (with save)
+****** User Selection:
+R
+
+ Is this a [G]raduate or [U]ndergraduate student? to continue please type a selection:
+GERROR: this is not an availible option.
+***********************************************************
+********** Student DB Modify Menu *************************
+***********************************************************
+
+Make a User selection by entering the letter in the box.
+
+[F]irst Name Edit
+[L]ast Name Edit
+[G]rade Point Average Edit
+E[M]ail Edit
+[R]ank/Year Edit
+[D]egree Edit
+[C]redit Edit
+[S]taff Edit
+[E]xit the database (with save)
+****** User Selection:
+C
+
+ Is this a [G]raduate or [U]ndergraduate student? to continue please type a selection:
+G
+Enter email addres (primary key) to search:
+fungus@uw.edu
+FOUND email address: fungus@uw.edu
+*********************Student Record*************************First name: Fredrick
+ Last name: Ungus
+       GPA: 1.7
+     Email: fungus@uw.edu
+  Enrolled: 3/4/2022 12:20:47 PM
+    Credit: $1,400.02
+   Advisor: Dr. AA Man
+
+what is the students new/correct credit: 1500.03
+
+***********************************************************
+********** Student DB Modify Menu *************************
+***********************************************************
+
+Make a User selection by entering the letter in the box.
+
+[F]irst Name Edit
+[L]ast Name Edit
+[G]rade Point Average Edit
+E[M]ail Edit
+[R]ank/Year Edit
+[D]egree Edit
+[C]redit Edit
+[S]taff Edit
+[E]xit the database (with save)
+****** User Selection:
+E
+**** SAVING ALL RECORDS TO OUTPUT FILE ****
+StudentDB.Undergrad
+Alice
+Anderson
+3.9
+aanderson@uw.edu
+3/4/2022 12:40:57 AM
+Freshman
+Computer Science
+StudentDB.GradStudent
+Bob
+Bradshaw
+3.7
+bbradshaw@uw.edu
+3/4/2022 12:40:57 AM
+5900.01
+Dr.Florance Dough
+StudentDB.Undergrad
+Carlos
+Cast
+3.7
+ccast@uw.edu
+3/4/2022 12:40:57 AM
+Junior
+Information Technology
+StudentDB.GradStudent
+David
+Davis
+3.0
+ddavis@uw.edu
+3/4/2022 12:40:57 AM
+6000.99
+Dr. Donald Chinn
+StudentDB.GradStudent
+Fredrick
+Ungus
+1.7
+fungus@uw.edu
+3/4/2022 12:20:47 PM
+1500.03
+Dr. AA Man
+**** DONE SAVING ALL RECORDS TO OUTPUT FILE ****
+PS C:\Users\gotJe\Documents\StudentDB> stop-transcript

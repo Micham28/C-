@@ -1,0 +1,7 @@
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\obj\Debug\EmployeeDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\obj\Debug\EmployeeDB.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\bin\Debug\EmployeeDB.exe.config
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\bin\Debug\EmployeeDB.exe
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\obj\Debug\EmployeeDB.exe
+C:\Users\gotJe\Documents\Cs2\EmployeeDB\obj\Debug\EmployeeDB.pdb

@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\CS1\DigitParser\bin\Debug\DigitParser.exe.config
+C:\Users\gotJe\Documents\CS1\DigitParser\bin\Debug\DigitParser.exe
+C:\Users\gotJe\Documents\CS1\DigitParser\bin\Debug\DigitParser.pdb
+C:\Users\gotJe\Documents\CS1\DigitParser\obj\Debug\DigitParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\CS1\DigitParser\obj\Debug\DigitParser.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\CS1\DigitParser\obj\Debug\DigitParser.exe
+C:\Users\gotJe\Documents\CS1\DigitParser\obj\Debug\DigitParser.pdb
+C:\Users\gotJe\Documents\CS1\DigitParser\obj\Debug\DigitParser.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\CS1\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\gotJe\Documents\CS1\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\gotJe\Documents\CS1\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\gotJe\Documents\CS1\OddOrEven\obj\Debug\OddOrEven.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\CS1\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\CS1\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\gotJe\Documents\CS1\OddOrEven\obj\Debug\OddOrEven.pdb
+C:\Users\gotJe\Documents\CS1\OddOrEven\obj\Debug\OddOrEven.csproj.AssemblyReference.cache

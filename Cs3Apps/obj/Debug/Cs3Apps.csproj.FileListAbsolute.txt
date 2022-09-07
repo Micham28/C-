@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\Cs3Apps\bin\Debug\Cs3Apps.exe.config
+C:\Users\gotJe\Documents\Cs3Apps\bin\Debug\Cs3Apps.exe
+C:\Users\gotJe\Documents\Cs3Apps\bin\Debug\Cs3Apps.pdb
+C:\Users\gotJe\Documents\Cs3Apps\obj\Debug\Cs3Apps.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\Cs3Apps\obj\Debug\Cs3Apps.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\Cs3Apps\obj\Debug\Cs3Apps.exe
+C:\Users\gotJe\Documents\Cs3Apps\obj\Debug\Cs3Apps.pdb
+C:\Users\gotJe\Documents\Cs3Apps\obj\Debug\Cs3Apps.csproj.AssemblyReference.cache

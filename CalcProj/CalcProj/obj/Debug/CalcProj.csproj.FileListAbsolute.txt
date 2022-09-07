@@ -1,0 +1,10 @@
+C:\Users\gotJe\Documents\CalcProj\CalcProj\bin\Debug\CalcProj.exe.config
+C:\Users\gotJe\Documents\CalcProj\CalcProj\bin\Debug\CalcProj.exe
+C:\Users\gotJe\Documents\CalcProj\CalcProj\bin\Debug\CalcProj.pdb
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.Form1.resources
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.csproj.GenerateResource.cache
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.exe
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.pdb
+C:\Users\gotJe\Documents\CalcProj\CalcProj\obj\Debug\CalcProj.csproj.AssemblyReference.cache

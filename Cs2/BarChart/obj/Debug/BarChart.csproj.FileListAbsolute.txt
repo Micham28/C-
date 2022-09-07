@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\Cs2\BarChart\bin\Debug\BarChart.exe.config
+C:\Users\gotJe\Documents\Cs2\BarChart\bin\Debug\BarChart.exe
+C:\Users\gotJe\Documents\Cs2\BarChart\bin\Debug\BarChart.pdb
+C:\Users\gotJe\Documents\Cs2\BarChart\obj\Debug\BarChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\Cs2\BarChart\obj\Debug\BarChart.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\Cs2\BarChart\obj\Debug\BarChart.exe
+C:\Users\gotJe\Documents\Cs2\BarChart\obj\Debug\BarChart.pdb
+C:\Users\gotJe\Documents\Cs2\BarChart\obj\Debug\BarChart.csproj.AssemblyReference.cache

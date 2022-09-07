@@ -1,0 +1,7 @@
+C:\Users\gotJe\Documents\Cs2\Cs2\bin\Debug\Cs2.exe.config
+C:\Users\gotJe\Documents\Cs2\Cs2\bin\Debug\Cs2.exe
+C:\Users\gotJe\Documents\Cs2\Cs2\bin\Debug\Cs2.pdb
+C:\Users\gotJe\Documents\Cs2\Cs2\obj\Debug\Cs2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\Cs2\Cs2\obj\Debug\Cs2.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\Cs2\Cs2\obj\Debug\Cs2.exe
+C:\Users\gotJe\Documents\Cs2\Cs2\obj\Debug\Cs2.pdb

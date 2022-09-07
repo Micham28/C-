@@ -1,0 +1,8 @@
+C:\Users\gotJe\Documents\CS1\BodyMass\bin\Debug\BodyMass.exe.config
+C:\Users\gotJe\Documents\CS1\BodyMass\bin\Debug\BodyMass.exe
+C:\Users\gotJe\Documents\CS1\BodyMass\bin\Debug\BodyMass.pdb
+C:\Users\gotJe\Documents\CS1\BodyMass\obj\Debug\BodyMass.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\CS1\BodyMass\obj\Debug\BodyMass.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\CS1\BodyMass\obj\Debug\BodyMass.exe
+C:\Users\gotJe\Documents\CS1\BodyMass\obj\Debug\BodyMass.pdb
+C:\Users\gotJe\Documents\CS1\BodyMass\obj\Debug\BodyMass.csproj.AssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\gotJe\Documents\StudentDB\obj\Release\StudentDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\StudentDB\obj\Release\StudentDB.csproj.CoreCompileInputs.cache

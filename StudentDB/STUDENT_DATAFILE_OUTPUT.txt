@@ -1,0 +1,40 @@
+StudentDB.Undergrad
+Alice
+Anderson
+3.9
+aanderson@uw.edu
+3/4/2022 12:40:57 AM
+Freshman
+Computer Science
+StudentDB.GradStudent
+Bob
+Bradshaw
+3.7
+bbradshaw@uw.edu
+3/4/2022 12:40:57 AM
+5900.01
+Dr.Florance Dough
+StudentDB.Undergrad
+Carlos
+Cast
+3.7
+ccast@uw.edu
+3/4/2022 12:40:57 AM
+Junior
+Information Technology
+StudentDB.GradStudent
+David
+Davis
+3.0
+ddavis@uw.edu
+3/4/2022 12:40:57 AM
+6000.99
+Dr. Donald Chinn
+StudentDB.GradStudent
+Fredrick
+Ungus
+1.7
+fungus@uw.edu
+3/4/2022 12:20:47 PM
+1400.02
+Dr. AA Man

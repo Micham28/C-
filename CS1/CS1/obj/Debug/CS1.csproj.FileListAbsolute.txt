@@ -1,0 +1,7 @@
+C:\Users\gotJe\Documents\CS1\CS1\bin\Debug\CS1.exe.config
+C:\Users\gotJe\Documents\CS1\CS1\bin\Debug\CS1.exe
+C:\Users\gotJe\Documents\CS1\CS1\bin\Debug\CS1.pdb
+C:\Users\gotJe\Documents\CS1\CS1\obj\Debug\CS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gotJe\Documents\CS1\CS1\obj\Debug\CS1.csproj.CoreCompileInputs.cache
+C:\Users\gotJe\Documents\CS1\CS1\obj\Debug\CS1.exe
+C:\Users\gotJe\Documents\CS1\CS1\obj\Debug\CS1.pdb
